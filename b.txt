@@ -1,3 +1,4 @@
 File 2
 
-We are addmin this line in the feature brach ..
+Adding the conflit in feater-two branch 
+
